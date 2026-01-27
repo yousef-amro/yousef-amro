@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm a Software engineer focusing on mobile app developing with Flutter.<br>🌱 I'm currently expanding my skills in cross-platform development and improving my understanding of UI/UX and best coding practices.<br>📱 I enjoy turning ideas into simple, functional mobile experiences.<br>🚀 My goal is to keep learning, contribute to open-source projects, and grow into a strong Flutter engineer.
+👋 Hi, I'm a Software engineer focusing on mobile app development with Flutter.<br>🌱 I'm currently expanding my skills in cross-platform development and improving my understanding of UI/UX and best coding practices.<br>📱 I enjoy turning ideas into simple, functional mobile experiences.<br>🚀 My goal is to keep learning, contribute to open-source projects, and grow into a strong Flutter engineer.
 
 
 ## 🌐 Socials:
